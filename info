@@ -1,0 +1,10 @@
+local info = {
+  discord = "https://discord.gg/8SHurbPYZU";
+  status = "enabled";
+  announcement = "";
+  support_discord = {
+    strucid = "Derpgod32#3148";
+    da_hood = "Derpgod32#3148";
+  }
+}
+return info
